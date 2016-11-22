@@ -1,0 +1,16 @@
+/*----------------- navbar -----------------*/
+.navbar-inverse{
+    border-radius: 0!important;
+}
+.navbar-form{
+    margin-top: 9px;
+}
+.btn{
+    border-radius: 0!important;
+}
+#div-alert-success, #div-alert-warning, #div-alert-danger{
+    display: none;
+}
+input{
+    border-radius: 0!important;
+}
